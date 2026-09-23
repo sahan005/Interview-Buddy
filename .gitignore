@@ -23,3 +23,5 @@ Thumbs.db
 # Misc
 :memory:.ses
 *.log
+system_design.docx
+*.docx
